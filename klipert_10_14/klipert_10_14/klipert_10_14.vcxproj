@@ -143,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="taylor.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="klipert_10_14.cpp" />
